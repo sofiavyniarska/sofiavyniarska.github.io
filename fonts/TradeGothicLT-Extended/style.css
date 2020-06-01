@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Trade Gothic';
+    src: local('Trade Gothic Extended'), local('Trade-Gothic-Extended'),
+        url('TradeGothicLT-Extended.woff2') format('woff2'),
+        url('TradeGothicLT-Extended.woff') format('woff'),
+        url('TradeGothicLT-Extended.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
